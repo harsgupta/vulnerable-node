@@ -1,4 +1,4 @@
-FROM node:21.0-bullseye-slim
+FROM node:21.0-bookworm-slim
 
 MAINTAINER "Daniel Garcia aka (cr0hn)" <cr0hn@cr0hn.com>
 
